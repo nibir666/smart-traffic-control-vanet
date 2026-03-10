@@ -1,4 +1,4 @@
-# Smart Traffic Control System using VANET
+# Vehicular Security System
 
 ## Project Overview
 This project presents a prototype smart traffic monitoring and driver safety system using Vehicular Ad-hoc Networks (VANET) and IoT technologies.
