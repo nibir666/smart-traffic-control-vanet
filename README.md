@@ -48,8 +48,6 @@ ID No: 151-15-4916
 Department of CSE
 Daffodil International University
 
-
-
 Arijit Banarjee
 B.Sc. in Computer Science & Engineering
 ID No: 151-15-5417
